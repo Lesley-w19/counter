@@ -76,4 +76,11 @@ __ALSO NOTE:__ for the advanced assignment you will need to start off from scrat
 
 
 __All assignments should be hosted on github pages and links submitted to google classroom__
+
+This is the coin side that will be used. They can be found in the __assets/images__ folder
+
+![Heads](./assets/images/head-side.png)
+
+![Heads](./assets/images/tail-side.png)
+
 Happy Coding :)
