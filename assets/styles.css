@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .container {
+    display: flex;
+    margin: 80px;
+  }
+  
+  .button-container {
+    padding: 30px;
+    padding-left: 60px;
+  }
+  
+  .display-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+button {
+  padding: 7px 25px;
+  width: 80px;
+  border: none;
+  color: white;
+  background-color: rgb(73, 73, 73);
+}
