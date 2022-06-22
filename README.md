@@ -18,6 +18,8 @@ __NOTE:__ Stick to the function approach because that is what we covered today a
 
 # Advanced Assignment
 
+## Heads or Tails
+
 For those of you who feel the challenge above is a basic assignment and you completed it within a split second here is some juice.
 
 Create a heads or tails game that will be played by a real person and a computer.
@@ -68,4 +70,8 @@ you get a 4 and computer gets a 2
 
 __You become a winner in this set because you guessed the most correct predictions__
 
+__ALSO NOTE:__ for the advanced assignment you will need to start off from scratch i.e; HTML, CSS and JS. Push it to its' own github repository. Don't mix the 2 assignments.
+
+
+__All assignments should be hosted on github pages and links submitted to google classroom__
 Happy Coding :)
